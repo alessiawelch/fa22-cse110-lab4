@@ -22,29 +22,48 @@
 11. [ 50, 100, 150 ] -> 50% off the input values returns all the discounted values
     
 12. Answers below
-    1.  A. let sName = student.name;
-    2.  B. let gradYear = student['Grad Year'];
-    3.  C. student.greeting();
-    4.  D. let faveTeacher = student['Favorite Teacher'].name;
-    5.  E. let firstClass = student.courseLoad[0];
+    
+    A. let sName = student.name;
+    
+    B. let gradYear = student['Grad Year'];
+    
+    C. student.greeting();
+    
+    D. let faveTeacher = student['Favorite Teacher'].name;
+    
+    E. let firstClass = student.courseLoad[0];
  
 13. Answers below
-    1.  A. '32' - the '+' operator makes the int a string and concatenates them together
-    2.  B. 1 - the '-' operator makes the string convert to int so that numeric subtraction can occur
-    3.  C. 3 - null is equal to 0 when int so 3+0 = 3
-    4.  D. '3null' - since the 3 is a string the '+' operator makes null a string and concatenates them togther
-    5.  E. 4 - true when int is equal to 1 and 3+1 equals 4
-    6.  F. 0 - false equals 0 when int and 0+0 equals 0
-    7.  G. '3undefined' - since the 3 is a string the '+' operator makes undefined a string and concatenates them togther
-    8.  H. NaN - the '-' operator makes the string convert to int so that numeric subtraction can occur but since the second value is undefined the result is NaN
+    
+    A. '32' - the '+' operator makes the int a string and concatenates them together
+    
+    B. 1 - the '-' operator makes the string convert to int so that numeric subtraction can occur
+    
+    C. 3 - null is equal to 0 when int so 3+0 = 3
+    
+    D. '3null' - since the 3 is a string the '+' operator makes null a string and concatenates them togther
+    
+    E. 4 - true when int is equal to 1 and 3+1 equals 4
+    
+    F. 0 - false equals 0 when int and 0+0 equals 0
+    
+    G. '3undefined' - since the 3 is a string the '+' operator makes undefined a string and concatenates them togther
+    
+    H. NaN - the '-' operator makes the string convert to int so that numeric subtraction can occur but since the second value is undefined the result is NaN
  
 14. Answes below
-    1.  A. true - string 2 becomes number 2 to be compared to numeric 1 and it is true because 2 is bigger than 1
-    2.  B. false - 2 comes after 1 in hex value (comparing string alphapetic)
-    3.  C. true - because string 2 becomes number 2 when checked
-    4.  D. false - because different types
-    5.  E. false - true is equal to 1
-    6.  F. true - when converted to boolean 2 becomes true and true and true are the same type thus it is true
+
+    A. true - string 2 becomes number 2 to be compared to numeric 1 and it is true because 2 is bigger than 1
+    
+    B. false - 2 comes after 1 in hex value (comparing string alphapetic)
+    
+    C. true - because string 2 becomes number 2 when checked
+    
+    D. false - because different types
+    
+    E. false - true is equal to 1
+    
+    F. true - when converted to boolean 2 becomes true and true and true are the same type thus it is true
 
 16. In file part2-question16.js
 
@@ -52,8 +71,12 @@
 
 18. In file part2-question18.js
 
-19. Output from code:
+19. Output from code: 
+
     1
+    
     4
+    
     3
+    
     2
