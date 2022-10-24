@@ -56,7 +56,7 @@ test();
 
 
 Question 1, 2, 3, 4, 5, 6
-*/
+
 function sumValues(num1, num2, add){
 
     if(add){
@@ -74,7 +74,6 @@ function sumValues(num1, num2, add){
 
 sumValues(10, 10, true);
 
-/*
 questions 1-8
 function discountPrices(prices, discount){
     var discounted = []
