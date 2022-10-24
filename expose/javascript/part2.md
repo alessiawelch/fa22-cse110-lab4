@@ -1,4 +1,4 @@
-## Part 2
+# Part 2
 
 1. 3 is printed to console - i is a var so it still exists outside the for loop
    
